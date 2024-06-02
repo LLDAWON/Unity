@@ -1,0 +1,4 @@
+key,name,walkSpeed,runSpeed,jumpPower,jumpCount,hp,power,skillPower
+101,Dragon,5,10,500,1,50,10,50
+102,Monster,3,5,0,0,50,5,0
+103,Boss,4,8,0,0,150,10,20

@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Attack
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 4d439259ed83ca24985b64beff40b59d, type: 3}
+    - time: 0.083333336
+      value: {fileID: 21300000, guid: adfb416d19cbf9a4a83cf76489fcc165, type: 3}
+    - time: 0.15
+      value: {fileID: 21300000, guid: 6ba52c07da077a84d8a1a0a6dadea245, type: 3}
+    - time: 0.26666668
+      value: {fileID: 21300000, guid: 5460994eeb32e8640946f4a195f0b89a, type: 3}
+    - time: 0.33333334
+      value: {fileID: 21300000, guid: 55cf8a080e837a142b185be12ee033af, type: 3}
+    - time: 0.41666666
+      value: {fileID: 21300000, guid: 4c5a91e62d17a024894791cf700839a9, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: fcc967a112791354ca512163bb6134a9, type: 3}
+    - time: 0.56666666
+      value: {fileID: 21300000, guid: 2d1b56a4a1beb054787a7b0a1ecd64db, type: 3}
+    - time: 0.65
+      value: {fileID: 21300000, guid: d6c6263cb12f78f4fa2569e3831fa614, type: 3}
+    - time: 0.71666664
+      value: {fileID: 21300000, guid: c35e3a1df9807f6409ff8fbfeb9066d9, type: 3}
+    - time: 0.8333333
+      value: {fileID: 21300000, guid: 15bc7bb9e90cec84091004e1e1301f2e, type: 3}
+    - time: 0.9
+      value: {fileID: 21300000, guid: bf29c23af4a875f49bb6c9b91438f5fe, type: 3}
+    - time: 0.98333335
+      value: {fileID: 21300000, guid: 4e907f6811cca4147b54bf7682648d64, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+    flags: 2
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 4d439259ed83ca24985b64beff40b59d, type: 3}
+    - {fileID: 21300000, guid: adfb416d19cbf9a4a83cf76489fcc165, type: 3}
+    - {fileID: 21300000, guid: 6ba52c07da077a84d8a1a0a6dadea245, type: 3}
+    - {fileID: 21300000, guid: 5460994eeb32e8640946f4a195f0b89a, type: 3}
+    - {fileID: 21300000, guid: 55cf8a080e837a142b185be12ee033af, type: 3}
+    - {fileID: 21300000, guid: 4c5a91e62d17a024894791cf700839a9, type: 3}
+    - {fileID: 21300000, guid: fcc967a112791354ca512163bb6134a9, type: 3}
+    - {fileID: 21300000, guid: 2d1b56a4a1beb054787a7b0a1ecd64db, type: 3}
+    - {fileID: 21300000, guid: d6c6263cb12f78f4fa2569e3831fa614, type: 3}
+    - {fileID: 21300000, guid: c35e3a1df9807f6409ff8fbfeb9066d9, type: 3}
+    - {fileID: 21300000, guid: 15bc7bb9e90cec84091004e1e1301f2e, type: 3}
+    - {fileID: 21300000, guid: bf29c23af4a875f49bb6c9b91438f5fe, type: 3}
+    - {fileID: 21300000, guid: 4e907f6811cca4147b54bf7682648d64, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0.56666666
+    functionName: ActivateAttackEffect
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.71666664
+    functionName: DeactivateAttackEffect
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.95
+    functionName: EndAttack
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

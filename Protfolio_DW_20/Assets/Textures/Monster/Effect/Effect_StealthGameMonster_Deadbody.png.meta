@@ -1,0 +1,831 @@
+fileFormatVersion: 2
+guid: 5fd710dfc4acc4b449f441c3adae832c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 600
+        width: 151
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2b529c2e32cf3489ad7699782f0a11
+      internalID: 1893220747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 600
+        width: 136
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc5e60ebaac9b74aa11029cf8e09783
+      internalID: -61801422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 592
+        width: 130
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0e9432d3dcc1847863ab4800e73965
+      internalID: -657071548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_3
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 598
+        width: 148
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a0a9044b6f6934caca69ec8ea55292
+      internalID: 1133462121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 384
+        width: 135
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bfb7ae8ce12dd4d99efc27489993d7
+      internalID: 305647083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 389
+        width: 141
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5433f853319f85a4e96522559d2fa633
+      internalID: 444153149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 397
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170c80d0bf6afd04996316ec498fc728
+      internalID: 23447743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 392
+        width: 165
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c4e166516cdb646a48433cf8a66564
+      internalID: -503064940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 295
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4361724770ddb4438f2f9c30bce16ff
+      internalID: 513233547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 92
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fec26e48c1ce2545b88fe886aeb5bf6
+      internalID: 847461458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 274
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04c5f0b70b706243bb36238105fca8a
+      internalID: -260862089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 279
+        width: 97
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840350bc5200c064a92071a13939cdf2
+      internalID: 588587396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 281
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42857805c1f5ed140a74e5255951fc4e
+      internalID: -1030952323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_13
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 272
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d881fee0b14d94f985618d3dc568c6
+      internalID: 484133698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 192
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e49364f768e417418982d9f63a78f32
+      internalID: -509802241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 183
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2334a84a30b0542b38a6c250ceb82b
+      internalID: 147239469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_16
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 184
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66391e34a5d51e7418e095d8125d9cef
+      internalID: -2123089792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 188
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbc10fdc9b983f4b82651135c2eb1d3
+      internalID: 841917082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_18
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 208
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a235d6ce3f9294c83c673ad0e529aa
+      internalID: 1312235011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 96
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccc865d4064a8243abe486e5beadbc0
+      internalID: -309151592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 93
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a68893f6b175ee4fab34e8527c4625b
+      internalID: -10458589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 96
+        width: 101
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275b82502f9e5ac4dbae5f94752da9c6
+      internalID: 2122953462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 104
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b002eb27fd83dc49a9b80a2dfd91e74
+      internalID: 21530875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 108
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6324867544b544c41bf6dd94aa909dbd
+      internalID: 519017229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_24
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 108
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f168a5bc8d0e14ea3a36d916a9501a
+      internalID: -807890984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 24
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46042aa61a3beaa43bdb4a534fd25ec1
+      internalID: 766153198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c732acf20cd09243b55baa8e28e96db
+      internalID: -1669163935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 24
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea45aeabccce6b41b199d8e8afc1d43
+      internalID: -396192046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_28
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 27
+        width: 73
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba515cd88dabe7a42adec2b0f8b2dc61
+      internalID: -1627227238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_29
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 20
+        width: 89
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a2b9bec39449d4fbd52344865cc102
+      internalID: 280009376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_30
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 24
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01220292b0fccc24e90970684629cb99
+      internalID: 1937686505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_StealthGameMonster_Deadbody_31
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 24
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a12cf1918631949befc1df7ec8470e
+      internalID: -269895905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Effect_StealthGameMonster_Deadbody_0: 1893220747
+      Effect_StealthGameMonster_Deadbody_1: -61801422
+      Effect_StealthGameMonster_Deadbody_10: -260862089
+      Effect_StealthGameMonster_Deadbody_11: 588587396
+      Effect_StealthGameMonster_Deadbody_12: -1030952323
+      Effect_StealthGameMonster_Deadbody_13: 484133698
+      Effect_StealthGameMonster_Deadbody_14: -509802241
+      Effect_StealthGameMonster_Deadbody_15: 147239469
+      Effect_StealthGameMonster_Deadbody_16: -2123089792
+      Effect_StealthGameMonster_Deadbody_17: 841917082
+      Effect_StealthGameMonster_Deadbody_18: 1312235011
+      Effect_StealthGameMonster_Deadbody_19: -309151592
+      Effect_StealthGameMonster_Deadbody_2: -657071548
+      Effect_StealthGameMonster_Deadbody_20: -10458589
+      Effect_StealthGameMonster_Deadbody_21: 2122953462
+      Effect_StealthGameMonster_Deadbody_22: 21530875
+      Effect_StealthGameMonster_Deadbody_23: 519017229
+      Effect_StealthGameMonster_Deadbody_24: -807890984
+      Effect_StealthGameMonster_Deadbody_25: 766153198
+      Effect_StealthGameMonster_Deadbody_26: -1669163935
+      Effect_StealthGameMonster_Deadbody_27: -396192046
+      Effect_StealthGameMonster_Deadbody_28: -1627227238
+      Effect_StealthGameMonster_Deadbody_29: 280009376
+      Effect_StealthGameMonster_Deadbody_3: 1133462121
+      Effect_StealthGameMonster_Deadbody_30: 1937686505
+      Effect_StealthGameMonster_Deadbody_31: -269895905
+      Effect_StealthGameMonster_Deadbody_4: 305647083
+      Effect_StealthGameMonster_Deadbody_5: 444153149
+      Effect_StealthGameMonster_Deadbody_6: 23447743
+      Effect_StealthGameMonster_Deadbody_7: -503064940
+      Effect_StealthGameMonster_Deadbody_8: 513233547
+      Effect_StealthGameMonster_Deadbody_9: 847461458
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
